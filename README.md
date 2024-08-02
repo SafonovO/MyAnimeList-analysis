@@ -4,6 +4,7 @@ Repository for CMPT 353 MyAnimeList dataset project
 Python version: 3.11
 
 Required packages:
+Jupyter Notebook
 Pandas
 Geopandas
 Matplotlib
