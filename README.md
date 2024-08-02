@@ -1,6 +1,8 @@
 # CMPT353_MAL
 Repository for CMPT 353 MyAnimeList dataset project
 
+The code is presented in jupyter, so you don't have to run everything to see the results
+
 Python version: 3.11
 
 Required packages:
