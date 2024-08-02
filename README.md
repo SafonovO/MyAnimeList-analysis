@@ -12,5 +12,7 @@ Scikit Learn
 xgboost
 
 Required resources:
+
 World cities database from https://www.kaggle.com/datasets/juanmah/world-cities?resource=download
+
 Natural Earth Vector country map from https://www.naturalearthdata.com/downloads/110m-cultural-vectors/110m-admin-0-countries/
