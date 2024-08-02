@@ -9,3 +9,4 @@ Geopandas
 Matplotlib
 Seaborn
 Scikit Learn
+xgboost
