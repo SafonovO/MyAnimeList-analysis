@@ -15,6 +15,7 @@ Scikit Learn,
 xgboost
 
 Required resources:
+MyAnimeList Dataset from https://www.kaggle.com/datasets/azathoth42/myanimelist, should be extracted into a Data/ folder
 
 World cities database from https://www.kaggle.com/datasets/juanmah/world-cities?resource=download
 
